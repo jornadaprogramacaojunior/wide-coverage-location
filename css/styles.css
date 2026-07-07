@@ -26,6 +26,9 @@ header {
     cursor: pointer;
 }
 
+navi-link:hover {
+    opacity: .6;
+
 .button-signup {
     cursor: pointer;
     color: #ffffff;
@@ -43,7 +46,10 @@ header {
     opacity: 1;
     cursor: pointer;
 }
-
+.button-signup:hover {
+    opacity: .6;
+}
+    
 main {
     margin-bottom: 102px;
 }
@@ -94,4 +100,8 @@ p {
     letter-spacing: 1px;
     margin-bottom: 114px;
     cursor: pointer;
+}
+    }
+.button-learn-more:hover {
+    opacity: .6;
 }
