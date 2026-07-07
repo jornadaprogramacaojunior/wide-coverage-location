@@ -26,7 +26,7 @@ header {
     cursor: pointer;
 }
 
-navi-link:hover {
+a:hover {
     opacity: .6;
 
 .button-signup {
@@ -47,7 +47,7 @@ navi-link:hover {
     cursor: pointer;
 }
 .button-signup:hover {
-    opacity: .6;
+    opacity: 0.6;
 }
     
 main {
@@ -103,5 +103,5 @@ p {
 }
     }
 .button-learn-more:hover {
-    opacity: .6;
+    opacity: 0.8;
 }
