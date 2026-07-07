@@ -27,6 +27,7 @@ header {
 }
 
 .button-signup {
+    cursor: pointer;
     color: #ffffff;
     background-color: #6fbf44;
     border: 1px solid #4cb538;
